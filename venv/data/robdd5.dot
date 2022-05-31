@@ -1,0 +1,5 @@
+graph { 
+	"1[@2186672793488]" -- "True[@2186672793680]"[color=red, pendwidth=4.0];
+	"1[@2186672793488]" -- "False[@2186672793584]"[color=green, pendwidth=4.0];
+
+}
